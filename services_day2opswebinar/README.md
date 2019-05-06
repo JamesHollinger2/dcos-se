@@ -337,3 +337,6 @@ Deploy Zeppelin version 0.6.0:
 Once deployed, navigate back to the SmartCity App UI --> Zeppelin to see that the Zeppelin service now appears in the app:
 
 ![](https://github.com/ably77/dcos-se/blob/master/services_day2opswebinar/resources/zeppelin4.png)
+
+Click the “Download Notebook” tab from the Smartcity app.  Import the notebook you just downloaded into Zeppelin.  Kick off the spark notebooks and browse to DC/OS nodes (donut view) to show how it can simply use unused capacity to run the analytics jobs.
+
